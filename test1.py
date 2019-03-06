@@ -11,4 +11,5 @@ class bcolors:
 
 
 print(bcolors.OTHER + "DOCKER TEST 1" + bcolors.ENDC)
+print(bcolors.OTHER + "DOCKER TEST 2" + bcolors.ENDC)
 
